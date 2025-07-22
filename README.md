@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/anime-carlos.png" width="220" style="border-radius: 12px;" alt="Carlos anime version"/>
+  <img src="carlos-anime.png" width="600" style="border-radius: 12px;" alt="Carlos anime version"/>
 </p>
 
 <h1 align="center">Carlos Takushi Rocha</h1>
