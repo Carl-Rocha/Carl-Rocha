@@ -5,10 +5,13 @@
 <h1 align="center">Carlos Takushi Rocha</h1>
 
 <p align="center">
-  Fullstack Developer · C# | Node.js | Vue | React <br/>
-  UI & UX apaixonado por performance, arquitetura e design <br/>
-  Osasco/SP — Disponível remoto
+  <ul>
+    <li><strong>Fullstack Developer</strong> · C# | Node.js | Vue | React</li>
+    <li>UI & UX apaixonado por performance, arquitetura e design</li>
+    <li>Osasco/SP — Disponível remoto</li>
+  </ul>
 </p>
+
 
 <p align="center">
   <a href="mailto:sou.carlos@outlook.com"><img src="https://img.shields.io/badge/email-sou.carlos@outlook.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
